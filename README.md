@@ -1,2 +1,2 @@
-# text_repeator
+# Text Repeater
 Repeats text and presses "enter"
